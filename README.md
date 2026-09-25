@@ -8,6 +8,16 @@ Since I am still completing my bachelor's degree, this repository is an **ongoin
 
 ---
 
+## ⚠️ Project Status
+
+Many of the projects in this repository were created primarily for **learning, practice, coursework, or experimentation**. As a result, some projects may be incomplete, contain limitations, or may not work correctly in every situation.
+
+These projects should not necessarily be considered production-ready software. They are preserved as part of my learning journey and reflect the knowledge, skills, and approaches I had at the time of development.
+
+Some projects may have been improved or expanded later, while others remain in their original state as a record of my progress.
+
+---
+
 ## 📌 About This Repository
 
 The projects in this repository are organized **by semester** and divided into two main categories:
