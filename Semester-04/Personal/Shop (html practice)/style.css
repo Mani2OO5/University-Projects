@@ -1,0 +1,44 @@
+body {
+    
+background-image: url('ThePencil.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+h1 {
+    border: 2px solid rgb(61, 132, 37);
+    background-color: rgb(21, 11, 134);
+    color: rgb(67, 129, 39);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 300%;
+    display: flex;
+    width: fit-content;
+    padding: 5px 10px;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+
+p {
+    background-color: antiquewhite;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    width: fit-content;
+    padding: 5px 10px;
+    border-radius: 8px;
+    margin: 0 auto;
+    background-color: transparent;
+
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+table, th, td {
+   border:5px solid rgb(0, 0, 0);
+   background-color: rgb(228, 82, 3);
+   
+}
